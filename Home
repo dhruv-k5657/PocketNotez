@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PocketNotez - Your Study Companion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation Bar (Sticky) -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="index.html">📚 PocketNotez</a>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link active">Home</a></li>
+                <li><a href="about.html" class="nav-link">About</a></li>
+                <li><a href="notes.html" class="nav-link">Services</a></li>
+                <li><a href="faq.html" class="nav-link">FAQ</a></li>
+                <li><a href="contact.html" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Header/Hero Section -->
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Welcome to PocketNotez</h1>
+            <p>Your Complete Study Companion for Better Learning</p>
+            <p class="hero-subtitle">Access quality study notes for all your subjects in one place</p>
+            <a href="notes.html" class="cta-button">Explore Notes</a>
+        </div>
+    </header>
+
+    <!-- Features Section -->
+    <section class="features">
+        <h2>Why Choose PocketNotez?</h2>
+        <div class="features-container">
+            <div class="feature-card">
+                <div class="feature-icon">📖</div>
+                <h3>Comprehensive Notes</h3>
+                <p>Well-organized and detailed study notes for all major subjects</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">⚡</div>
+                <h3>Quick Access</h3>
+                <p>Download notes instantly and access them anytime, anywhere</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">✅</div>
+                <h3>Expert Curated</h3>
+                <p>Notes created by experienced educators and subject experts</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">🎓</div>
+                <h3>Student Friendly</h3>
+                <p>Simple language and visual explanations for better understanding</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Subjects Section -->
+    <section class="subjects">
+        <h2>Our Subject Categories</h2>
+        <div class="subjects-grid">
+            <div class="subject-item">
+                <h3>Programming Languages</h3>
+                <p>C, Python, Java, and more</p>
+            </div>
+            <div class="subject-item">
+                <h3>Web Development</h3>
+                <p>HTML, CSS, JavaScript Basics</p>
+            </div>
+            <div class="subject-item">
+                <h3>Databases</h3>
+                <p>DBMS, SQL, Database Design</p>
+            </div>
+            <div class="subject-item">
+                <h3>Data Structures</h3>
+                <p>Algorithms & DSA Concepts</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2026 PocketNotez. All rights reserved. | Educational Platform for Students</p>
+            <div class="footer-links">
+                <a href="about.html">About</a> | 
+                <a href="contact.html">Contact</a> | 
+                <a href="faq.html">FAQ</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
