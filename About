@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - PocketNotez</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation Bar (Sticky) -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="index.html">📚 PocketNotez</a>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="about.html" class="nav-link active">About</a></li>
+                <li><a href="notes.html" class="nav-link">Services</a></li>
+                <li><a href="faq.html" class="nav-link">FAQ</a></li>
+                <li><a href="contact.html" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header">
+        <h1>About PocketNotez</h1>
+        <p>Learn more about our mission and vision</p>
+    </header>
+
+    <!-- Mission Section -->
+    <section class="about-section">
+        <div class="section-content">
+            <h2>Our Mission</h2>
+            <p>
+                At PocketNotez, our mission is to democratize quality education by providing comprehensive, 
+                well-researched study notes that are accessible to every student. We believe that every student 
+                deserves access to high-quality educational resources without any financial barriers. Our platform 
+                aims to bridge the gap between traditional learning methods and modern study practices.
+            </p>
+        </div>
+        <div class="section-decorative">
+            <div class="icon-large">🎯</div>
+        </div>
+    </section>
+
+    <!-- Vision Section -->
+    <section class="about-section alternate">
+        <div class="section-decorative">
+            <div class="icon-large">🌟</div>
+        </div>
+        <div class="section-content">
+            <h2>Our Vision</h2>
+            <p>
+                We envision a world where every student has instant access to quality study materials and can 
+                learn at their own pace. Our goal is to become the most trusted platform for study notes among 
+                students worldwide. We strive to create an ecosystem where knowledge is shared freely and learning 
+                becomes more engaging and effective for everyone.
+            </p>
+        </div>
+    </section>
+
+    <!-- Objectives Section -->
+    <section class="about-section">
+        <div class="section-content">
+            <h2>Our Objectives</h2>
+            <div class="objectives-list">
+                <div class="objective-item">
+                    <h3>📚 Comprehensive Coverage</h3>
+                    <p>Provide detailed notes for all major subjects and courses</p>
+                </div>
+                <div class="objective-item">
+                    <h3>✨ Quality Assurance</h3>
+                    <p>Ensure all notes are accurate, well-researched, and updated regularly</p>
+                </div>
+                <div class="objective-item">
+                    <h3>🚀 Continuous Innovation</h3>
+                    <p>Keep improving our platform with new features and better user experience</p>
+                </div>
+                <div class="objective-item">
+                    <h3>🤝 Community Building</h3>
+                    <p>Create a supportive community where students help each other learn</p>
+                </div>
+                <div class="objective-item">
+                    <h3>💡 Practical Learning</h3>
+                    <p>Focus on practical application of concepts with real-world examples</p>
+                </div>
+                <div class="objective-item">
+                    <h3>🌍 Global Reach</h3>
+                    <p>Make quality education accessible to students worldwide</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How We Help Section -->
+    <section class="help-section">
+        <h2>How We Help Students Learn Better</h2>
+        <div class="help-grid">
+            <div class="help-card">
+                <h3>Saves Time</h3>
+                <p>No need to search for notes across multiple sources. Everything is here in one place.</p>
+            </div>
+            <div class="help-card">
+                <h3>Improves Understanding</h3>
+                <p>Our notes use simple language and visual diagrams to explain complex concepts.</p>
+            </div>
+            <div class="help-card">
+                <h3>Better Grades</h3>
+                <p>Well-structured notes help you prepare better and score higher in your exams.</p>
+            </div>
+            <div class="help-card">
+                <h3>24/7 Available</h3>
+                <p>Download once and study anytime, anywhere. No internet required after download.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2026 PocketNotez. All rights reserved. | Educational Platform for Students</p>
+            <div class="footer-links">
+                <a href="about.html">About</a> | 
+                <a href="contact.html">Contact</a> | 
+                <a href="faq.html">FAQ</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
